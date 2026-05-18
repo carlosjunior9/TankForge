@@ -1,0 +1,2 @@
+aqui va la logica del teclado, se tiene que hacer la logica de los comandos 
+para que el tanque se mueva y dispare

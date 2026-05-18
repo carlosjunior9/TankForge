@@ -1,0 +1,3 @@
+Aqui va todo sobre las imagenes y animaciones 
+como las imagenes de los tanques que se mostraran en el juego
+o como las animaciones de explosion, etc
