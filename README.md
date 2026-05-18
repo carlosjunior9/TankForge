@@ -1,16 +1,16 @@
-# TankForge
+# 🎮 TankForge
 
 Juego de tanques 2D desarrollado en Java por un equipo de estudiantes usando programación orientada a objetos y trabajo colaborativo con GitHub.
 
 ---
 
-## Descripción
+## 🧾 Descripción
 
-TankForge es un juego desarrollado en 2d que permite al jugador controlar un tanque en una variedad de mapas y enfrentandoce a variedad de enemigos, cada mapas sera mas dificil que el anterior, en cada mapa tendra que ver la manera de emplear una estrategia para derrotar a todos los enemigos y lograr la victoria.
+TankForge es un juego desarrollado en 2D que permite al jugador controlar un tanque en una variedad de mapas y enfrentándose a variedad de enemigos. Cada mapa será más difícil que el anterior, y el jugador deberá usar estrategia para derrotarlos y lograr la victoria.
 
 ---
 
-## Características
+## ⚙️ Características
 
 - Movimiento de tanques
 - Sistema de disparos
@@ -24,7 +24,7 @@ TankForge es un juego desarrollado en 2d que permite al jugador controlar un tan
 
 ---
 
-## Tecnologías utilizadas
+## 🧪 Tecnologías utilizadas
 
 - Java
 - Java Swing
@@ -33,7 +33,7 @@ TankForge es un juego desarrollado en 2d que permite al jugador controlar un tan
 
 ---
 
-## Estructura del proyecto
+## 🧱 Estructura del proyecto
 
 ```txt
 tankforge/
@@ -47,7 +47,6 @@ tankforge/
 │   ├── map/
 │   ├── input/
 │   └── graphics/
-│   
 │
 ├── assets/
 │   ├── tanks/
@@ -60,18 +59,15 @@ tankforge/
 
 ---
 
-## Instalación y ejecución
-
-
+## 🚀 Instalación y ejecución
 
 ---
 
-## Controles
-
+## 🎮 Controles
 
 ---
 
-## Objetivos del proyecto
+## 🎯 Objetivos del proyecto
 
 - Aprender desarrollo de videojuegos 2D
 - Mejorar el trabajo en equipo
@@ -81,23 +77,20 @@ tankforge/
 
 ---
 
-## Integrantes
-
+## 👥 Integrantes
 
 ---
 
-## Estado del proyecto
+## 🔧 Estado del proyecto
 
 🚧 En desarrollo
 
 ---
 
-## Ideas futuras
-
-
+## 💡 Ideas futuras
 
 ---
 
-## Licencia
+## 📄 Licencia
 
-Proyecto educativo sin fines comerciales.
+Proyecto educativo.
