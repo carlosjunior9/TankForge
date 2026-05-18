@@ -1,0 +1,2 @@
+aqui va la logica del panel principal como la pantalla de inicio y el tablero en general
+para que se muestre como interfaz

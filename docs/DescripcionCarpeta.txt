@@ -1,0 +1,3 @@
+Aqui va toda la documentacion del codigo, se tiene que 
+describir como funciona el juego en general, como puedo iniciar
+y de mas

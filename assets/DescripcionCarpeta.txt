@@ -1,0 +1,1 @@
+En esta carpeta de assets solo se llama a lo logica que se programo en src nada mas 
