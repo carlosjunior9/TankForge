@@ -1,7 +1,9 @@
 package main;
 
+import game.PantallaPrincipal;
+
 public class Main{
     public static void main(String [] args){
-        System.out.print("TankForge Iniciado");
+        new PantallaPrincipal(); // estamos llamando a la pantalla principal para que el juego se inicie
     }
 }
